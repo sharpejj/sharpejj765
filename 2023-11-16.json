@@ -1,0 +1,26 @@
+{
+  "name": "Julia Hanson",
+  "age": 38,
+  "address": {
+    "street": "Uceki Street",
+    "city": "Lodopev",
+    "state": "LA",
+    "zip": "97621"
+  },
+  "contact": {
+    "phone": "(982) 969-2746",
+    "servicePhone": "800283652"
+  },
+  "birthday": "2001-02-26T12:59:33.218Z",
+  "ip": "55.73.10.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Cerbedwe bec neviabu duliwzir fa cowa wusuga po gihiaw kewe rialiboz je dirwacwub. Ded bi rikumo ganje nunoriv zul va po vara soga vefkac oziogike. Gajlooc etkiz jookkod cimgimo duaposoh tihwikru tasgifpep mobsi ku jikucle ceteati guwru ceb. Deowmu sov se hevowob adi vaj kopewrap igiewe osazer fili wegrucgom hove ritajog zifev helo lihopi guwbut. Ra opvuonu igvah dak ijda temej ulefuiti gimhe obcucpu tofaj bazig wevsec toejboj nemji nehatocik awu. Mut ahaluspod lawinnot picedako lo eli begduc zojbeztil sacozarak hadmave vo muk otfusev se woh.",
+    "bio": "Zawrodjo fir lizminjet li fizjief piupa zu tib zuvo ihecavlo sobkakka ranolpos jaucaja ol. Ustel vimopefaf uk iwo kivgu siju medasu munu gaedlod ijwomu taofamer gedu wu fun ej. Jilo azo vaaje oce oronuh puk ide pusujvi fopehjev subuzoso rinlodbam tum otoku fasehiz. Fegocve roz si fegdicud du wewgoh orera ha jaadabus oni wag uvcoktez meli."
+  },
+  "apiKey": "9de24ca8984c0b1183c2e9705cd7ee38408a25b44539f009f21b56fb0b0a8bcb",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
