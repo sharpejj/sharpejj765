@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Kim",
+  "age": 28,
+  "address": {
+    "street": "Sulpur Key",
+    "city": "Idresroh",
+    "state": "MO",
+    "zip": "31539"
+  },
+  "contact": {
+    "phone": "(406) 436-9379",
+    "servicePhone": "800173288"
+  },
+  "birthday": "1969-11-08T01:54:12.887Z",
+  "ip": "74.137.114.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Maufe uvpozhij fe covdek soc ac nelad ki ehi gemtas ponula una lofteppe zupefo wamijras uccak bu. Ipugi nomilapu cuzic enhu be kit dugipecag avleper uga duw wucabo wib fohnim zeku lalaf vu fewsowte. Erfupsit otosere imupewel lezo hiba liso gu buarla rasreajo piwe jehefdel uwkis wibekzor.",
+    "bio": "Kik pihodir hu kalamted sod bictopfe jikbenem na coufu zumoba cisga sujeko. Liwidiler zicsepe azeadaru ri ceszefe zu ge wabne tesa helo be ehwudunu evvero sejiksij surkubat ukoci gin. Jupulca alu goiv zer luwmim sise sapus huca ikoeg zu apabedup zo dauloaz walar hoik nubnajil."
+  },
+  "apiKey": "bc53710667ead853d9f03f9d6d77825ac9643dfe1661b1bff9ee2abc3d79dd2b",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
