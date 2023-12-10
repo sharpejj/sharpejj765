@@ -1,0 +1,26 @@
+{
+  "name": "Harry Lane",
+  "age": 31,
+  "address": {
+    "street": "Watjos Parkway",
+    "city": "Ajaogica",
+    "state": "MS",
+    "zip": "60262"
+  },
+  "contact": {
+    "phone": "(628) 366-9297",
+    "servicePhone": "800194458"
+  },
+  "birthday": "1980-02-06T09:46:26.803Z",
+  "ip": "82.217.45.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Pamosiba vaig retduap kirueb zitola hamhatsum ve zupluzum rewog epvorfut tasumawu zacifur purpizla nitvasak. Nonve ukaehada ruf zenhom ji ubih konutle pazkawka joglam zualme dajocehi hawa is zidwi. Pupivka gijorkag nemijvid erhi hunadoja cakjad kokim fina pecak vedfatha giomina we izire guv loezu.",
+    "bio": "Efu emepud gas uc lenveg la necpeobe weses rucjov ru uwpami ge tabkaw eg. Ultafpoh gasubili do hebuic ripuwlab mowfi wugozo num cew vuaselun fupipsi ziep gooz zumu ji niuvnu. Nawuj sav utavej geciw makpukode rene zo vegug necemet sarnogu zik ah dagsu ij togis."
+  },
+  "apiKey": "c89a7d7dc728af7f0e7153d31269e08f539c5e5f367a0263a46a072c73a4b0a9",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
