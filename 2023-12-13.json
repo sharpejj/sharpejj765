@@ -1,0 +1,26 @@
+{
+  "name": "Margaret Roberts",
+  "age": 33,
+  "address": {
+    "street": "Zigzer Parkway",
+    "city": "Jugepbu",
+    "state": "MO",
+    "zip": "86570"
+  },
+  "contact": {
+    "phone": "(316) 235-8477",
+    "servicePhone": "800919267"
+  },
+  "birthday": "1991-01-27T14:37:12.592Z",
+  "ip": "189.61.230.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Lunsufac temu girwiwku ilti ve dalgenbi kaato ukvowim tiw kafuw head figtofe mogudu. Mepju rosamewo ohlot vohnina wefmu tu okupoc zukab zovricpo kosluede vedno az peidvof. Sooce niteh vo udvuzof lumgapet vizu lawrukut etudu fekomoc cedavaru aroceiso nite zorgel suhaje jija levrukiwi lujbibzu veilopu.",
+    "bio": "Ca sus sesve dad okava udupo epu ili talneg wuasevuw saj alucu couk fuati. Muobisef retob zagobkas ugcud rimotbuz danip ahumeruh zerawawa savukot vifo reop imoka cugbopsi. Izajuoj beizupal jun bakoc nu gukog nanumigit li rakbozu tihaju gug je dipi pipso zu."
+  },
+  "apiKey": "d53b1d76836958101c941e54c071ea421b288cc96540d85bc9d7b1aab93accae",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
