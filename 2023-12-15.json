@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Lynch",
+  "age": 31,
+  "address": {
+    "street": "Takuj Way",
+    "city": "Ijeeborof",
+    "state": "NJ",
+    "zip": "46785"
+  },
+  "contact": {
+    "phone": "(306) 270-2375",
+    "servicePhone": "800196436"
+  },
+  "birthday": "2005-07-21T10:04:47.600Z",
+  "ip": "184.122.130.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Dewa vodiv zinafte vohzulgus vataj utovov lucnig desi besilol keep zerew konheksal degocew hetimmev. Boge te ducbo awusu jomaape ov kaktune fuolo aloneb geed jaf vosiju regogsu oczasaw fe vihdatus nujibem tijfel. Mage kecob sob bizza voz ama judvo wum wejvutnu tiv ku jujvu jih tovzipa tohuec. Umeisizo devtakted reraco heife put kujudoca beof awuadu cut kipdo ibo wifwa fulravka awi nevjulo eb hapikin guw. Cev vadeg setav cimta ada zahid istinjid gusmug zapofgu vu ib nek udojo kaboda. Gadfen tut olipotfap sum lapvog ses ligga ti nedocuku lidmirkim juftec ij amajesmir aputu zuloruhef am pot bikga. Dukoro haogo ecugusi ivasolfin da abi ka ogvodfe irabormi joszal vuwilse siulmuz ojilu.",
+    "bio": "Fabloimo mukkuomo fur iwriltu tebdih vow waz unorim soor cab egivug fufonga nukbe hopde akbaju neja rior ugudaguw. Pa ut nidruj kaswe uzuosi piup tujo mekfetmi kosdomasa owavejler zikbevho libbumi he jikhat fussaero mecgiodi. Uc decgaere femjeel uze gub afu sirej wicpeve vitbol lafudu leg tidva otewizgo. Lomusiti zu wubip toruz cianomo notnata gulujpim danocat ovto sip ojujohe budev. Eteras riosvoc nidaned lawun unke zunoraibu vis udu zob zefkat elsig we es me id kiva."
+  },
+  "apiKey": "ee8c9586ea9c87541ce74622262d2680f394a041c421c967f9d4b917a7a91bf1",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
