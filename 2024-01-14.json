@@ -1,0 +1,26 @@
+{
+  "name": "Elijah Welch",
+  "age": 42,
+  "address": {
+    "street": "Puzo Plaza",
+    "city": "Awuunive",
+    "state": "ND",
+    "zip": "93655"
+  },
+  "contact": {
+    "phone": "(727) 665-2727",
+    "servicePhone": "800546624"
+  },
+  "birthday": "1997-07-19T16:22:00.704Z",
+  "ip": "156.121.215.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo rofon gokba lac locaniw se pohwedo ricvefem dap ophapha web sufig monfusa vose buoseku aseefatez amfenraw. Ni zolopiman ri vum kihlol okalegzun ho kuekujuh jicuk uhanuno amre kuhev niz. Samameki zi be waapabu megute cawen foz zi iku retvihe juznezep ako warto vid ta edafiati unuruvdid. Laup ulaho igsiv telil kuku pa ughob jik uwo cuplotfu zil zirrukim lusali kidibolim jeb nak segwiiga gadumu.",
+    "bio": "Wu rarbo veka ogdorwo iz fe cif deom wod oro pobo ucunoc irsas ejenosar do mikatede joludwin unuput. Ruwtasuc polupivo si if pal am ulepnun dowi rozeroc cikga iturefro epewuvte ilguw. Ru opa kus amenifo cib huguuji beneut irtoh vadici zo vuah jirlu paj onfi wopdicbim na usrow. Az upiwpon hi igu zolusewac zacwibgub tu agbaseh avijekden fe cemesti tuiwbu gij legum jet jo. Selotu merhevig okizje ge wifak aku ohu fogcap suk sukojvo duh ohemod rac."
+  },
+  "apiKey": "8b482e9ff8604eb9cc0135d483fc350992221884d461ab5dad324e643130ccab",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
