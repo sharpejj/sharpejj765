@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Benson",
+  "age": 53,
+  "address": {
+    "street": "Misju Drive",
+    "city": "Piitkav",
+    "state": "CT",
+    "zip": "45237"
+  },
+  "contact": {
+    "phone": "(941) 354-7337",
+    "servicePhone": "800464916"
+  },
+  "birthday": "2000-07-07T05:48:12.925Z",
+  "ip": "24.162.31.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Nouw ez wed kokbodete uje otwi avu hu zom hotpa raulto pe roke tobecin povehed pih. Bowa hizzalfu zer rihogon ke og jupuna gi wemo acadinje tedwis keznapin vegahutih telfahoca eta. Komis na jukroj guubetan enumaw eflit el fihune kafoz heji hiloapi nenewi atapasza mep vujmok.",
+    "bio": "Nocoan aburoved dosi etugohco likacroh ticiplam ikipudepo en jihkim topab cadukje wujwelir wu lehmokabu umbelne nig tassat. Wata vih uhfab uzi har vah du vutleca wenifim ujoredah nuvifhob coraknov owbiade niham jafameode di. Ejenakzit fo pa for pehimaz ob hufivo puzed ziv lajga zusi ne icadasi. Notehin pi iwudu hez jiri judpiluj veonja po atesab tamcar wa sojon fu waprehnuh ezrebu ozrajab siupo."
+  },
+  "apiKey": "5cb252483412c45d1aff6e8099d866d741df8d5d2e2da5adbf58c8d85ec642d0",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
