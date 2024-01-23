@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Butler",
+  "age": 23,
+  "address": {
+    "street": "Watzap Boulevard",
+    "city": "Tenzivub",
+    "state": "MA",
+    "zip": "25554"
+  },
+  "contact": {
+    "phone": "(442) 494-3698",
+    "servicePhone": "800892926"
+  },
+  "birthday": "1976-07-23T13:45:50.723Z",
+  "ip": "109.83.131.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuj paduko tah cuf ideelzam mi enatac no sedejem pib cu togehu. Hunudlu gofocos sazuwiti tafep bibepzu foemuhit dusoz bun ko lubip suc no. Eb fu rowjedoj guk wot bumgohoh fohjam una joz guz ujta sitedahe.",
+    "bio": "Lawovo pirju anuwehge sowu buhuto mun viknuane mob tik lika nog guk iktipo iferivil it. Deh we ira zew ujjumzug azomupa kahijlaf favlezul bowraogu los kamvekek kiggosto zakmazoj guc. He jilvarfi gapit nub didtoc zet ubararih fulup pabculdi viwgeb teco telberje. Hebama zillud oboro mizmeb vilkop bico fikaw ido sok mo cukjopuhu zecnocuz cegvoco gosduvgak igo os. Ecinudedo jijukca jurrorug safuki zuwnamu mupca ramupid ga bunu nala gohtajuf vefeco huczu tupce."
+  },
+  "apiKey": "e4a0c6ce8f30ac44b646ad0a6cb711f74dd29cbce454b1d8ecdfa603a86426df",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
