@@ -1,0 +1,26 @@
+{
+  "name": "Flora McGuire",
+  "age": 20,
+  "address": {
+    "street": "Mijpa Plaza",
+    "city": "Minehi",
+    "state": "AK",
+    "zip": "75653"
+  },
+  "contact": {
+    "phone": "(983) 293-8193",
+    "servicePhone": "800296622"
+  },
+  "birthday": "1997-05-10T09:22:16.438Z",
+  "ip": "223.93.242.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa dosezod logovsug uzuuz sez mo tuab na ezabajuf zizu dule asnakar mejugi ejca pi bumas. Vef izawfup goz cideh nub urihusen zitvi nan mig zive avokiut de vepgozon ilpu unituvom huri raojo iko. Gaehorec geffulif hukob ji waifga hen zosupeisi bar mul el fahsida olwum fehiv zow towasi jotu. Tuf rosa navbo ulu ura ceekot ohese besduge oz puba fuvjev siz pimufe kiwwoj soshekut subofora. Rocmig recusij ugiukihi topuwi pi jijwonuv ozahoddek cam egeado sun zug wiwawjus afkabni cagmod vedhut ale mic oweiri. Em zooc vijur dir acadi widonpu maecra ser vibju kiha vabuhe irpum abo eheijegin.",
+    "bio": "Atro ku mic tiwe nuzsuw movtu jotide wisnetcow suphicmo ovojefdik tavuwa nasacup ho tuwge nif sor tanko. Livales ukufu nihogpu ok kuocwe ub lacog fonagec eca be arwike ca. Vupos powigo joma ruwunhut ruhuzig ubapodbud bupmocvow ej uhdid uduimvu lon malkusov no ka wiplape. Mu enlab howvotuv kojede vabgibi tidgos fojoura duusiva adonif afikuw kon fim facepsif. Zejo pik haw hupnudsuc bulavu me eca kejta zan ge ujuora kumizdoj hesufno mik fonip. Fi ni vas sonbante uretevno le pacatsob janiat tonmebha suf ju ninok."
+  },
+  "apiKey": "9cdb724121741fd3ed64dcf204b9d079e98a509fa4e0108594e1b9b115a6904c",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
