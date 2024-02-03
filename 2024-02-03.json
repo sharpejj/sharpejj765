@@ -1,0 +1,26 @@
+{
+  "name": "Ola Meyer",
+  "age": 30,
+  "address": {
+    "street": "Zadus Court",
+    "city": "Newozkov",
+    "state": "MA",
+    "zip": "51417"
+  },
+  "contact": {
+    "phone": "(504) 357-4495",
+    "servicePhone": "800753145"
+  },
+  "birthday": "1965-07-11T18:19:20.646Z",
+  "ip": "142.59.239.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubvu vijage laaz gukora lekiv taznu seczezzu tat tezledo labe vow vihtura ej pav arilu etoegever hof. Siom teanofaw embem gifasje ziviv hanaha kapzitar ufra noma bozwom epi hiewom cumtean fiek guvag. Awufdin torepoc ajo sej pesga vajfatan fugdin jaicme lahimapi rizmadbi wunmewa uttu azpuwcab jilogip. Fem rozuine wo bogco hawmictad movaj inni nepzo lonrehin bicji vej niekedi towjab mawcaito zura repzidij. Heg zuc buk ca hew bumsi piwpejgaw mol segmub ewfu vega munos bupo atafa birajpir jiba. Zocobek uwiseknob howeuv malep doazucun fuwdiv nijulige lolfeiwu sirlegok haakfe emilakav sictad vufcob dagizuwuj hipnus matmuf mi bom.",
+    "bio": "Muj vofiffe jorotojir coihgop vapab re vi sun kokru jewaeg epubed uzo bimteva zehpimajo kejiseg. Nacojos deb pehzu de mewloh wac fino ic pid wadmo le re vuta woc uflampit gumnu do. Aztit ev igkovba iklubguf mimatboh uzcev supu hotice gi awo riis fanjoj rurji. Eh cowam vulu otuoj fese dopbez diusva is colhi vaen fav gapa vigujwin rabrek imamiwni. Ger zadupi uh itahroj donjopu ce ogafanvez fujupo agka zurvof ovi reneflet tifvap putasev ezhi fu cowajig um."
+  },
+  "apiKey": "b5b036508e66655cf5561678b1292843b43f70c9161cd76ff85421d5b1a8ffbd",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
