@@ -1,0 +1,26 @@
+{
+  "name": "Bess Watts",
+  "age": 60,
+  "address": {
+    "street": "Nido Parkway",
+    "city": "Izpojmo",
+    "state": "ND",
+    "zip": "21645"
+  },
+  "contact": {
+    "phone": "(565) 203-2549",
+    "servicePhone": "800674242"
+  },
+  "birthday": "1993-12-13T18:22:57.554Z",
+  "ip": "98.31.196.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuva abuiwo wefupaz be respiku olaibibo on sirbolgo rilo jumi ni wubzewiv anores humla lohbamef suofhig. Juhif jem fucus oghoc vajza of ziwve regopowa us luemgad ediguhu abarisol patuvruv nakrutazi fuhdov hap. Pudwec ot reksateg novve lochuk viewa pi buegoiko pew fufvasse wofku josfiol rukhec.",
+    "bio": "Lo fuwe hap ochiul obizme mepnoha fa tirmihzu otajinid bajiwez rabiwbib ju mijmeken ap. Ub jebgib wu jeesjok huumoce ku mi jakinac ujinevko meh tizu et. Pa pihpar upo cu pabvisi nij zup sonhewguv nal zecibo lesa het be uta cag remozi cu."
+  },
+  "apiKey": "126e10437fd3fc9c0c310639fabeea9d5bc99f026f05964ae85c8d5985efca8b",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
