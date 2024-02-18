@@ -1,0 +1,26 @@
+{
+  "name": "Earl Garrett",
+  "age": 39,
+  "address": {
+    "street": "Posji Extension",
+    "city": "Baznebi",
+    "state": "DC",
+    "zip": "34553"
+  },
+  "contact": {
+    "phone": "(729) 211-2399",
+    "servicePhone": "800551334"
+  },
+  "birthday": "1981-08-12T01:00:27.300Z",
+  "ip": "171.220.160.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Akaw pavpiiw sico owkaffo pop larocuce bo vu uzima un odmazah gufegpi luzopi. Tudwiufu makid jugo patularo ale walne pod wu vu jouje riwziib cejvifu gaorofid ijuehu ho fidve. Upo polgam goh cetopfaw uwo rubju amiwe dedalo so wimbeli ki bire sep.",
+    "bio": "Hu larucuka fogotcaz je lejabso gehe rehfur getsevat imvifum ruoztu li ofne battum biseftoj. Nok waozjid kub cu dug ticef bekak uhoze ubujoroc mu owfoj uhiuw erumagu cemral ron vuzeba vo. Muzru navab put ibumazazo woj ticdi hanbaslo tewom bofho parsi lopkizje zahar. Luf wurfor nihsusdow aze tonalire vestasa ala gormi zaki dokdir dienibi hik. Uhmoisi bubze sul bab hiligpe zad lohtekij cifek du ogal tapifgu fowamga je pocdeino ufdoj hizus. Jetinlal av rukki woghak gi tezher tum vinotsu walombi zudtisew dove judona usi eg biuno. Faje ofovet hanuse sefufaz oznikij pumu afouwi dohlas ereacwag lituzto cazgatbaf enipuc hutno."
+  },
+  "apiKey": "4b8d0bc8bdbca1a1f9af5b2a893f08195ba0ae32522c99a4e594e5fdef6fc04b",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
