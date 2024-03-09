@@ -1,0 +1,26 @@
+{
+  "name": "Jane Strickland",
+  "age": 48,
+  "address": {
+    "street": "Tigiv Place",
+    "city": "Udtajsep",
+    "state": "RI",
+    "zip": "42404"
+  },
+  "contact": {
+    "phone": "(289) 591-7957",
+    "servicePhone": "800387673"
+  },
+  "birthday": "1975-06-22T14:47:10.357Z",
+  "ip": "112.19.86.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Tam bezahih pafe zujipaw fo inusigiva mi ha cerhul hut tiute orole pobca tijah. Ha molhot ha ehtofob juri guruhumi dusona ravcalej ju hazi coz iwinoj julimwod aviasapev ketow wa cod ku. Digu lamu pi wiwipmok mavo ecipisuc wutcewag tofvuzoz lu korepeas cu no ka gabge cucup noifivob. Wu se wo cehtow fiz dupiwa ji nimuw zuzica luva ofset gedaigo kote ba vojed hora ogazu. Jifli ikali av newoso opavu liavjan es mof mavrovfe lez ihafawas ijwobkit.",
+    "bio": "Fidju hog jovtivi ta cugo zojzip dowisu et daes demriwwo rajure wuknovu kapfot go rot guk. Rewufon rior duco venoz eni olco salu nuviwe ca suw uwgolmog jazuhe logig we. Kalnahkil hopbi zomil dejkogep wil wumma saf edwi su ho meovaid gobmo japulkik ecu."
+  },
+  "apiKey": "fbf5c1336fa10fc5d359f339ea5db519681816e79e6089215cc12789866c80ec",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
