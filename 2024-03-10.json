@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Hammond",
+  "age": 45,
+  "address": {
+    "street": "Zoka Glen",
+    "city": "Unaifega",
+    "state": "VA",
+    "zip": "71683"
+  },
+  "contact": {
+    "phone": "(751) 964-5467",
+    "servicePhone": "800916456"
+  },
+  "birthday": "1965-03-11T20:30:39.236Z",
+  "ip": "40.24.239.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Pipiva foc pom fak wamumo ruijci pehuiva ud pew hichagad liaveepe raz ov kipe jazez uso ma. Wiz huf tazla joiculep majvucpap mab juem izajval badji tuni ped go ifubosi nililji ekegemob pitokeag. Vahjahuv uguzuret hiwifne zuupneg ke nu fovaesa me hafer walanmij kedut ic me vikdez.",
+    "bio": "Nozlizbe ribsumu miw guk nalroj meariene rahgowvep ap woahju pohetdod poifopo ciunawuj majki neh nauzo ke. Feg id jifavcen fef kuj wukbuppi sok susweeca edabikut hinjuap gevfel kuh noceri tewni oncogvi asoku du. Vu uz calisgad vuh zuvudo sefiklu hujhipin ha ih fittek honunauha gubegi nauti dalav we."
+  },
+  "apiKey": "e3b50968bff1e4f0e935829cf4b9d0adce4de0ec3a94be97352ebd21947959c2",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
